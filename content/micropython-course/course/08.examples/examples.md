@@ -13,7 +13,7 @@ In this final chapter of the MicroPython 101 course, you will find code & circui
 
 ## Module Installation
 
-Many of these modules are not included in your MicroPython installation, but don't worry, installing them are very easy and require no additional software!
+Many of these modules are not included in your MicroPython installation, but don't worry, installing them is very easy and require no additional software!
 
 To install an external module, use the script below. Inside the script, the `URL` variable needs to be replaced with a valid URL that leads to a module. The URL can look like the following:
 - https://raw.githubusercontent.com/stlehmann/micropython-ssd1306/master/ssd1306.py
